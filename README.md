@@ -1,2 +1,2 @@
 # burhangok.github.io
-My Web Site - Kişisel Web Sitem
+My Personal Web Site - Kişisel Web Sitem
